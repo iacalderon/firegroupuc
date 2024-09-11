@@ -1,15 +1,24 @@
-- name: Miguel Vergara
-  photo: miguel.jpg
-  role: Computer Science Engineering student, UTFSM
-  education: 
-  area: video games and VR visualisation 
+- name: Ignacio Calderón
+  photo: icalderon.jpeg
+  role: PhD Student
+  education: MSc. and Mechanical Eng. from PUC
+  area: Compartment fires, timber fires and Numerical Simulation (CFD) 
   labels:
     - type: email
-      email: miguel.vergarap@sansano.usm.cl
+      email: iacalderon@uc.cl
     - type: linkedin
-      linkedin: https://cl.linkedin.com/in/miguel-vergara-703304235
+      linkedin: www.linkedin.com/in/ignacio-calderón-59ab62142
  
-
+- name: Benjamín Molina
+  photo: bmolina.jpg
+  role: MSc Student
+  education: Bachelor in Mechanical Eng. from PUC
+  area: Hydrogen Combustion & CFD 
+  labels:
+    - type: email
+      email: benmolina@uc.cl
+    #- type: linkedin
+    #  linkedin: www.linkedin.com/in/ignacio-calderón-59ab62142
 
 - name: "This could be you !"
   photo: astronaut.png
