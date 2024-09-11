@@ -1,23 +1,24 @@
-- name: Jorge Cuadra
-  photo: jorge.jpg
-  role: Full professor, UAI 
-  education: PhD, MPA Garching
+- name: Wolfram Jahn
+  photo: wjahn.png
+  role: Associate Professor, PUC
+        Principal Researcher, CENAMAD
+  education: PhD, The University of Edinburgh
   area: Galactic centre - protoplanetary discs - supermassive black hole binaries
   labels:
     - type: email
-      email: jorge.cuadra@uai.cl
+      email: wjahn@uc.cl
     - type: website
-      website: https://artesliberales.uai.cl/profesor/jorge-cuadra/
-    - type: arxiv
-      arxiv: https://arxiv.org/a/cuadra_j_1.html
+      website: https://www.wolframjahn.com/
+    #- type: arxiv
+    #  arxiv: https://arxiv.org/a/cuadra_j_1.html
     - type: googlescholar
-      googlescholar: https://scholar.google.com/citations?hl=en&user=3aaunA0AAAAJ
+      googlescholar: https://scholar.google.co.uk/citations?hl=en&user=ZVNmS2gAAAAJ&view_op=list_works&citft=1&email_for_op=iacalderon%40uc.cl&gmla=AC6lMd8UBsbrLpzRzSVh9WkDZ2qZZSeJFz1NnErEbQ-YGLgQyOoOuvXKcYhmt4fL8IvPBn5V6ZbA2T1FVPgL-1qoMGuX3f9Lcl-2vk_6LJwW8ciEMlTSpCDFRGqdLyYkSy4OwYPq2l38ALF2P_xl41ziSYUgaD-hUX9AdduqqzFsOelaGLpqo7P4vO6t_Mcrw_xnApqN-r4aqkZ0fv4fMdPZ7AS68Z2rLRBjhdwmRLpefnHlBxs-ESOsY4tXQh0OfSGJ_QA_w60TxrtSHRLAtcLeuiOv8ffFEOTcNW5wAGLjVCcYMS1z0js6bWe-0yw
     - type: orcid
-      orcid: https://orcid.org/0000-0003-1965-3346
-    - type: youtube
-      youtube: https://youtube.com/playlist?list=PLpTUpGYKtzErahTePtuuvJYhzmGO23Ldt&si=YnGcraWA7Ax_CN8s
+      orcid: https://orcid.org/0000-0001-9712-4154
+    #- type: youtube
+    #  youtube: https://youtube.com/playlist?list=PLpTUpGYKtzErahTePtuuvJYhzmGO23Ldt&si=YnGcraWA7Ax_CN8s
     - type: cv
-      cv: cuadra_CV.pdf
+      cv: CV_WJahn.pdf
 
               
 
