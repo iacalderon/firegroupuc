@@ -31,53 +31,34 @@
 #  education: PhD, Univ Nac La Plata
 #  area: Planet formation
 
-- name: Guido Granda-Muñoz
-  photo: guido.jpg
-  role: Postdoctoral researcher, UAI
-  education: PhD, UNAM
-  area: protoplanetary disc simulations
+- name: Agustín Majdalani
+  photo: amajdalani.png
+  role: Postdoctoral researcher, CENAMAD
+  education: PhD, The University of Edinburgh
+  area: Fire Dynamics and Compartment Fires
   labels:
     - type: email
-      email: guido.granda@edu.uai.cl
-    - type: academia
-      academia: https://uni.academia.edu/GuidoGrandaMu%C3%B1oz
-
-
-- name: Andrés Scherer
-  photo: andres.jpg
-  role: Postdoctoral researcher, PUC
-  education: PhD, PUC
-  area: cosmic and gamma rays in the Galactic centre
-  labels:
-    - type: email
-      email: ascherer@uc.cl
-
-
-- name: Mario Sucerquia
-  photo: mario.jpg
-  role: FONDECYT postdoctoral fellow, UAI
-  education: PhD, Univ de Antioquia
-  area: exo-moons and rings formation and dynamics
-  labels:
-    - type: email
-      email: mario.sucerquia@edu.uai.cl
-    - type: website
-      website: https://malsuar.wixsite.com/mario-sucerquia
-    - type: googlescholar
-      googlescholar: https://scholar.google.com.co/citations?user=TyaIOBQAAAAJ
-    - type: orcid
-      orcid: https://orcid.org/0000-0002-8065-4199
-    - type: researchgate
-      researchgate: https://www.researchgate.net/profile/Mario-Sucerquia
+      email: am@cosmos-inv.com
     - type: linkedin
-      linkedin: https://co.linkedin.com/in/mario-sucerquia-72035b173
+      academia: https://www.linkedin.com/in/agustinhmajdalani/
+
+
+- name: Carlos Ravena-Walker
+  photo: astronaut.png
+  role: Postdoctoral researcher, PUC
+  education: PhD, The University of Edinburgh
+  area: Battery fires, Wildfires and Fire Safety
+  #labels:
+  #  - type: email
+  #    email: 
+
 
 - name: "This could be you !"
   photo: astronaut.png
   role: Check our currently open positions, or simply contact us!
   labels:
     - type: email
-      email: jorge.cuadra@uai.cl
-    - type: website
-      website: https://jrcuadra.github.io/plaga//vacancies
+      email: wjahn@uc.cl
+    #- type: website
+    #  website: https://jrcuadra.github.io/plaga//vacancies
  
