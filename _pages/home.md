@@ -61,19 +61,18 @@ energy systems (see [Publications](publications)).
 </div>
 
 
-We are part of the [Faculty of Liberal
-Arts](https://artesliberales.uai.cl/) and the [Physics + Astro
-group](http://physics-astro.uai.cl/).
+We are part of the [Schoo of Engineering](https://www.ing.uc.cl/) and the [Department
+of Mechanical and Metallurgical Engineering](https://www.ing.uc.cl/mecanica-y-metalurgica/).
 
-Our work on formation and evolution of planetary systems is performed
-as part of the [Millennium Nucleus on Planet Formation
-(NPF)](http://www.npf.cl), while our work on accreting black holes and
-their environment is carried out as part of the [Millennium Nucleus for
-Transversal Research and Technology to explore Supermassive Black
-Holes (TITANS)](http://www.astro.udec.cl/titans/), both funded by the
-[Iniciativa Científica Milenio](http://www.iniciativamilenio.cl/).
+Our work on Timber Compartment Fires is performed
+as part of the [Centro Nacional de Excelencia para la
+Industria de la Madera (CENAMAD)](https://cenamad.cl/), while our work on Battery Fires in Tunnels is 
+a joint project with the mining industry. Our work on Ammonia Combustion is part of [Millennium Institute
+on Green Ammonia (MIGA)](https://greenammoniainstitute.cl/) and our work on Hydrogen Combustion is part of
+[Centro de Energía UC](https://energia.uc.cl/).
 
-We are also grateful for funding from different [ANID](http://www.anid.cl) and [UAI](https://www.uai.cl) programmes.
+
+We are also grateful for funding from different [ANID](http://www.anid.cl) and [PUC](https://www.uc.cl) programmes.
 
 <P>&nbsp;</P>
 
