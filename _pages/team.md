@@ -1,7 +1,7 @@
 ---
-title: "Plaga Members"
+title: "Fire Group members"
 layout: gridlay
-excerpt: "Plaga Group Members and Alumni"
+excerpt: "Fire Group Members and Alumni"
 sitemap: false
 permalink: /team/
 ---
