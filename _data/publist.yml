@@ -1,83 +1,83 @@
-- title: "The wind of rotating B supergiants - II. The δ-slow hydrodynamic regime" 
+- title: "Understanding Compartmentation Failure for High-Rise Timber Buildings" 
   image: dummy.png 
   description:  
-  authors: Venero, Curé, Puls, Cidale, Haucke, Araya, __Gormaz-Matamala__, and Arcos 
+  authors: __Majdalani__, __Calderón__, __Jahn__, and Torero 
   link:   
-    url:  https://ui.adsabs.harvard.edu/abs/2024MNRAS.527...93V  
-    display: MNRAS 527, 93 (2024)  
+    url:  https://www.mdpi.com/2571-6255/7/6/190  
+    display: Fire 2024, 7(6), 190  
   highlight: 0  
   news2:
 
-- title: "Modeling the Galactic center gamma-ray emission with more realistic cosmic-ray dynamics" 
+- title: "Single porosity model: Exploring the spatial resolution limits in complex urban patterns" 
   image: 2023A&A...679A.114S.png 
-  description:  "We generated synthetic gamma-ray maps using a CR transport model with spherical injection, different diffusion regimes and polar advection. They show that the CMZ has a large inner cavity and that the GC PeVatron is a composite CR population accelerated by the Arches, Quintuplet, and nuclear star clusters, and Sgr A East."
-  authors: __Scherer__, __Cuadra__, and Bauer 
+  #description:  "We generated synthetic gamma-ray maps using a CR transport model with spherical injection, different diffusion regimes and polar advection. They show that the CMZ has a large inner cavity and that the GC PeVatron is a composite CR population accelerated by the Arches, Quintuplet, and nuclear star clusters, and Sgr A East."
+  authors: __Nash__, Escauriaza, Finaud-Guyot, __Jahn__, and Rousseau 
   link:   
-    url:  https://ui.adsabs.harvard.edu/abs/2023A&A...679A.114S  
-    display: A&A 679, A114 (2023)  
-  highlight: 1  
-  news2:
+    url:  https://www.sciencedirect.com/science/article/pii/S0022169424006346  
+    display: Journal of Hydrology 637 (2024)  
+  #highlight: 1  
+  #news2:
 
-- title: "Sensitivity of the Cherenkov Telescope Array to TeV photon emission from the Large Magellanic Cloud" 
+- title: "Assessment of the Performance of FireFOAM in Simulating a Real-Scale Fire Scenario Using High Resolution Data" 
   image: dummy.png 
   description:  
-  authors: Acharyya, Adam, Aguasca-Cabot, et al. (incl. __Scherer__)
+  authors: __Jahn__, __Zamorano__, __Calderón__, Claren, and __Molina__
   link:   
-    url:  https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.5353A  
-    display: MNRAS 523, 5353 (2023)  
+    url:  https://www.mdpi.com/2571-6255/6/10/375  
+    display: Fire 2023, 6(10), 375  
   highlight: 0  
   news2:    
 
-- title: "Resolving the binary components of the outbursting protostar HBC 494 with ALMA" 
+- title: "Energy and exergy analysis of a bidirectional solar thermoelectric generator combining thermal energy storage" 
   image: dummy.png 
   description:  
-  authors: Nogueira, Zurlo, Pérez,  et al. (incl. __Cuadra__) 
-  authorsall: Nogueira, Zurlo, Pérez, González-Ruilova, Cieza, Hales, Bhowmik, Ruíz-Rodríguez, Principe, Herczeg, Williams, Cuadra, Montesinos, Cuello, Chavan, Casassus, Zhu, and Goicovic 
+  authors: __Montero__, Lamba, Singh, __Jahn__, and Chen 
+  #authorsall: Nogueira, Zurlo, Pérez, González-Ruilova, Cieza, Hales, Bhowmik, Ruíz-Rodríguez, Principe, Herczeg, Williams, Cuadra, Montesinos, Cuello, Chavan, Casassus, Zhu, and Goicovic 
   link:   
-    url:  https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp.1574N  
-    display: MNRAS 523, 4970 (2023)  
+    url:  https://www.frontiersin.org/journals/energy-research/articles/10.3389/fenrg.2023.1234548/full 
+    display: Front. Energy Res. (2023)  
   highlight: 0  
   news2:    
 
-- title: "Sensitivity of the Cherenkov Telescope Array to spectral signatures of hadronic PeVatrons with application to Galactic Supernova Remnants" 
+- title: "A bidirectional solar thermoelectric generator combining heat storage for daytime and nighttime power generation" 
   image: dummy.png 
   description:  
-  authors: Acero, Acharyya, Adam,  et al. (incl. __Scherer__)  
+  authors: __Montero__, Lamba, Ortega, __Jahn__, Chen, and Guzmán  
   link:   
-    url:  https://ui.adsabs.harvard.edu/abs/2023APh...15002850A  
-    display: APh 150, 102850 (2023)  
+    url:  https://www.sciencedirect.com/science/article/pii/S1359431123000261  
+    display: Applied Thermal ENgineering 224 (2023)  
   highlight: 0  
   news2:    
 
-- title: "Evolution of rotating massive stars with new hydrodynamic wind models" 
-  image: 2023A&A...673A.109G.png 
-  description: "The self-consistent approach gives lower mass-loss rates, which strongly affect the tracks of the most massive models. Weaker winds allow the star to retain more mass, but also more angular momentum. As a consequence, weaker wind models rotate faster and show a less efficient mixing in their inner stellar structure at a given age." 
-  authors: __Gormaz-Matamala__, __Cuadra__, Meynet, and Curé 
+- title: "Erosion under turbulent flow: a CFD-based simulation of near-wall turbulent impacts with experimental validation" 
+  image: dummy.png 
+  #description: "The self-consistent approach gives lower mass-loss rates, which strongly affect the tracks of the most massive models. Weaker winds allow the star to retain more mass, but also more angular momentum. As a consequence, weaker wind models rotate faster and show a less efficient mixing in their inner stellar structure at a given age." 
+  authors: Espinoza-Jara, Walczak, Molina, __Jahn__ and Brevis 
   link:   
-    url:  https://ui.adsabs.harvard.edu/abs/2023A&A...673A.109G  
-    display: A&A 673, A109 (2023)  
-  highlight: 1  
-  news2:    
+    url:  https://www.tandfonline.com/doi/pdf/10.1080/19942060.2022.2099978  
+    display: Engineering Applications of Computational Fluid Mechanics 16(1) (2022)
+  #highlight: 1  
+  #news2:    
 
-- title: "Astrophysics with the Laser Interferometer Space Antenna" 
+- title: "Intuitive explanation of numerical diffusion with implicit scheme for advection equation" 
   image: dummy.png 
   description:  
-  authors: Amaro-Seoane, Andrews, Arca Sedda, et al. (incl. __Cuadra__) 
+  authors: __Calderón__, and __Jahn__ 
   link:   
-    url:  https://ui.adsabs.harvard.edu/abs/2023LRR....26....2A  
-    display: LRR 26, 2 (2023)  
+    url:  https://scik.org/index.php/eml/article/viewFile/7444/3529 
+    display: Eng. Math. Lett. (2022)
   highlight: 0  
   news2:    
 
-- title: "The asymmetric sunrise effect on Thales' alleged measurement of the Sun angular size" 
-  image: 2023PASJ..tmp...39C.png 
-  description:  It has been suggested that Thales measured the size of the Sun by timing the sunrise. However, its duration depends on the latitude of the observer and the time of the year. We show that this effect would have prevented Thales from obtaining the correct value. 
-  authors: __Cuadra__ 
+- title: "Semi-empirical correlations for predicting hot gas layer temperature in pre-flashover compartment fires considering fire source location" 
+  image: dummy.png 
+  #description:  It has been suggested that Thales measured the size of the Sun by timing the sunrise. However, its duration depends on the latitude of the observer and the time of the year. We show that this effect would have prevented Thales from obtaining the correct value. 
+  authors: Lemmertz, Helfenstein, Beshir, Rush, __Jahn__, Centeno 
   link:   
-    url:  https://ui.adsabs.harvard.edu/abs/2023PASJ...75L..12C  
-    display: PASJ 75, L12 (2023)  
-  highlight: 1  
-  news2: "RAL non-technical article: [Tales de Mileto y el tamaño del Sol](https://revistaral.cl/tales-de-mileto-y-el-tamano-del-sol/)"    
+    url:  https://link.springer.com/article/10.1007/s40430-022-03431-z  
+    display: Journal of Brazilian Society of Mechanical Sciences and Engineering 5 (44) (2022)  
+  #highlight: 1  
+  #news2: "RAL non-technical article: [Tales de Mileto y el tamaño del Sol](https://revistaral.cl/tales-de-mileto-y-el-tamano-del-sol/)"    
 
 - title: "Infrared variability of young solar analogues in the Lagoon Nebula" 
   image: 2022MNRAS.517.6191O.jpg
