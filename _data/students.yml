@@ -19,13 +19,58 @@
       email: benmolina@uc.cl
     #- type: linkedin
     #  linkedin: www.linkedin.com/in/ignacio-calderón-59ab62142
+    
+- name: José Alarcón
+  photo: JAlarcon.JPG
+  role: MSc Student
+  education: Bachelor in Mechanical Eng. from PUC
+  area: Ammonia Combustion & CFD 
+  labels:
+    - type: email
+      email: josealaron@uc.cl
+      
+- name: Iván Vásquez
+  photo: astronaut.png
+  role: MSc Student
+  education: Bachelor in Mechanical Eng. from PUC
+  area: Fire & Combustion Safety 
+  labels:
+    - type: email
+      email: iavasquez@uc.cl
+      
+- name: Catalina Arcila
+  photo: carcila.jpeg
+  role: MSc Student
+  education: Bachelor in Mechanical Eng. from PUC
+  area:  Hydrogen Combustion
+  labels:
+    - type: email
+      email: catalina.arcila@uc.cl
+      
+- name: M° Fernanda García
+  photo: astronaut.png
+  role: MSc Student
+  education: Bachelor in Mechanical Eng. from PUC
+  area:  Battery fires in tunnels
+  labels:
+    - type: email
+      email: mfgg@uc.cl
+      
+- name: Ignacia Aspillaga
+  photo: astronaut.png
+  role: MSc Student
+  education: Bachelor in Mechanical Eng. from PUC
+  area:  Timber Comparment Fires
+  labels:
+    - type: email
+      email: ignacia.aspillaga@uc.cl
 
 - name: "This could be you !"
   photo: astronaut.png
   role: Check our currently open positions, or simply contact us!
   labels:
     - type: email
-      email: jorge.cuadra@uai.cl
-    - type: website
-      website: https://jrcuadra.github.io/plaga//vacancies
+      email: wjahn@uc.cl
+    #- type: website
+    #  website: https://jrcuadra.github.io/plaga//vacancies
  
