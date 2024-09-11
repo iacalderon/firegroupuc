@@ -1,7 +1,7 @@
 ---
-title: "PLAGA - Publications"
+title: "Fire Group - Publications"
 layout: gridlay
-excerpt: "PLAGA group -- Publications."
+excerpt: "Fire group -- Publications."
 sitemap: false
 permalink: /publications/
 ---
