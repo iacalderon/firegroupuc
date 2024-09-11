@@ -1,8 +1,7 @@
 - name: Sebastián Nash
   photo: snash.jpeg
   role: MSc 2023
-  #education: Then a postdoc at Charles University, Prague
-  area: PhD student in Hydraulic Eng. at PUC
+  education: PhD student in Hydraulic Eng. at PUC
   labels:
     #- type: website
     #  website: https://calderond.github.io/
@@ -20,8 +19,6 @@
 
 
 - name: Francisco Montero
-  #haswww: 1
-  #webpage: https://kiaa.pku.edu.cn/info/1010/2663.htm
   photo: fmontero.jpg
   role: PhD, 2022
   education: Now Assistant Professor at Universidad de las Fuerzas Armadas ESPE, Ecuador
@@ -38,12 +35,9 @@
 
 
 - name: Tomás Salinger
-  #haswww: 1
-  #webpage: https://cuellonicolas.wixsite.com/astrophysics
   photo: tsalinger.jpeg
   role: MSc, 2019
-  #education: Then a Marie-Curie fellow at IPAG, Grenoble
-  area: Now a Project Engineer at TRACTEBEL, Chile
+  education: Now a Project Engineer at TRACTEBEL, Chile
   #labels:
   #  - type: website
   #    website: https://nicolascuello.github.io/Stellar-MADE/nicolas-cuello
@@ -61,12 +55,7 @@
 - name: Sofía Figueroa
   photo: sramirez.jpeg
   role: MSc, 2018
-  #haswww: 0
-  #webpage: 
-#  email: ldelvalleb@astro.puc.cl
-#  education: MSc, 2018
-#  area: Solar System N-body - Circumbinary discs
-  role: Now Assistant Manager at Mercado Pago, Chile
+  education: Now Assistant Manager at Mercado Pago, Chile
   #labels:
   #  - type: googlescholar
   #    googlescholar: https://scholar.google.com/citations?user=D_2EijAAAAAJ&hl=es
