@@ -60,11 +60,11 @@
 
 - name: Sofía Figueroa
   photo: sramirez.jpeg
-#  role: Postdoctoral researcher, NPF & PUC
+  role: MSc, 2018
   #haswww: 0
   #webpage: 
 #  email: ldelvalleb@astro.puc.cl
-  education: MSc, 2018
+#  education: MSc, 2018
 #  area: Solar System N-body - Circumbinary discs
   role: Now Assistant Manager at Mercado Pago, Chile
   #labels:
@@ -78,12 +78,12 @@
 
 
 - name: Daniel Montoya
-  #haswww: 1
-  #webpage: http://www.acdunhill.com/
   photo: dmontoya.png
   role: MSc, 2018
   #education:  Then a postdoc at UCLAN, Preston
   area: Now Senior Eng. Project Manager at Reborn Electric SpA, Chile
+  #haswww: 1
+  #webpage: http://www.acdunhill.com/
   #labels:
   #  - type: website
   #    website: https://www.acdunhill.com/
@@ -93,11 +93,11 @@
 
 
 - name: Rafael Zamorano
+  photo: astronaut.png
+  role: MSc, 2017
   #haswww: 1
   #webpage: http://virginie-faramaz.com/
-  photo: astronaut.jpg
-  role: MSc, 2017
-  education: None
+  #education: None
   #area: Now a professor at the University of Arizona
   #labels:
   #  - type: website
@@ -110,7 +110,7 @@
 
 
 - name: Andrés Arévalo
-  photo: astronaut.jpg
+  photo: astronaut.png
   role: MSc, 2017
 #  haswww: 1
 #  webpage: https://cl.linkedin.com/in/cjfontec
