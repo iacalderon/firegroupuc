@@ -78,10 +78,11 @@ We are also grateful for funding from different [ANID](http://www.anid.cl) and [
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UAI.png" style="height: 80px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UA_PhA.jpg" style="height: 80px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NPF.jpg" style="height: 80px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Titans.png" style="height: 80px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ICM.jpg" style="height: 80px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cenamad.png" style="height: 80px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cen_logo.png" style="height: 80px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Dictuc.png" style="height: 80px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cosmos.png" style="height: 80px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/miga_logo.jpeg" style="height: 80px">
+     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IngUC.jpg" style="height: 80px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ANID.png" style="height: 80px">	
 </figure>
