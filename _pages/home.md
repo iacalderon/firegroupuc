@@ -1,17 +1,16 @@
 ---
-title: "PLAGA - Home"
+title: "Fire Group UC - Home"
 layout: homelay
-excerpt: "Planets, Accretion, and Galactic Centre Astrophysics"
+excerpt: "Fire Group UC"
 sitemap: false
 permalink: /
 ---
 
-We are a research group lead by Jorge Cuadra at [Universidad Adolfo
-Ibáñez (UAI)](https://www.uai.cl/) in Viña del Mar, but with some early
-career researchers based at other universities in Chile.  We work on
-different topics in Astrophysics, with a focus on numerical
-simulations of the Galactic Centre, planet formation, and other
-accreting systems (see [Publications](publications)).
+We are a research group lead by Wolfram Jahn at [Pontificia Universidad Católica
+de CHile (PUC)](https://www.uc.cl/) in Santiago.  We work on
+different topics in Fire, Combustion and Energy Systems, with a focus on numerical
+simulations of the Fire Dynamics in enclosures, numerical combustion of new fuels, and other
+energy systems (see [Publications](publications)).
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
