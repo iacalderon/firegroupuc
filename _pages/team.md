@@ -72,20 +72,20 @@ Jump to [faculty and postdocs](#faculty-and-postdocs), [students](#students), [a
 {% endif %}
 
 
-## Former visitors, part-time or Summer students
+## Former visitors and Collaborators
 (not including students who later did their thesis with us)
 
 <div class="row">
 
 <div class="col-sm-4 clearfix">
-<h4>Long-term visitors</h4>
+<h4>Visitors</h4>
 {% for member in site.data.alumni_visitors %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Graduate students</h4>
+<h4>Collaborations</h4>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
 {% endfor %}
